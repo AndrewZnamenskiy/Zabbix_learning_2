@@ -115,11 +115,11 @@
  
    *Скриншоты задания №6*
   
-![Commit Task6](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task6p1.png)
+![Commit Task6](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task6p1.png)
 
-![Commit Task6](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task6p2.png)
+![Commit Task6](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task6p2.png)
 
-![Commit Task6](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task6p3.png)
+![Commit Task6](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task6p3.png)
 
  
  ---
@@ -144,15 +144,15 @@
 
    *Скриншоты задания №8*
   
-![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task8p1.png)
+![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task8p1.png)
 
-![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task8p2.png)
+![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task8p2.png)
 
-![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task8p3.png)
+![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task8p3.png)
 
-![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task8p4.png)
+![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task8p4.png)
 
-![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/Task8p5.png)
+![Commit Task8](https://github.com/AndrewZnamenskiy/Zabbix_learning_2/blob/main/img/task8p5.png)
 
  ---
 
